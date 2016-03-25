@@ -1,0 +1,16 @@
+.character {
+    width: 150px;
+    height: 150px;
+    background-color: #f5f5d5;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    padding: 7px 7px;
+    font-family: Verdana;
+    opacity: 0.3;
+}
+
+.character.active {
+    opacity: 1.0;
+}

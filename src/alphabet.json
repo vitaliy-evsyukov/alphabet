@@ -1,0 +1,169 @@
+{
+  "characters": [
+    {
+      "char": "а",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "б",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "в",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "г",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "д",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "е",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ё",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ж",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "з",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "и",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "й",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "к",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "л",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "м",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "н",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "о",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "п",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "р",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "с",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "т",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "у",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ф",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "х",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ц",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ч",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ш",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "щ",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ъ",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ы",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ь",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "э",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "ю",
+      "charImage": "",
+      "associateImageUrl": ""
+    },
+    {
+      "char": "я",
+      "charImage": "",
+      "associateImageUrl": ""
+    }
+  ]
+}
