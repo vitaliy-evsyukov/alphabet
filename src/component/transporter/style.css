@@ -1,6 +1,15 @@
 .transporter {
-    display: block;
-    height: 150px;
+    display: flex;
+    /*flex-wrap: wrap;*/
+    /*height: 150px;*/
     overflow: hidden;
-    margin-left: 45%;
+    width: 35%;
+}
+
+.justify-end  {
+    justify-content: flex-end;
+}
+
+.justify-start {
+    justify-content: flex-start;
 }

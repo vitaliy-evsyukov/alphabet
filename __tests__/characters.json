@@ -3,167 +3,167 @@
     {
       "char": "а",
       "charImageURL": "",
-      "associateImageURL": "./src/images/association/arbuz.jpg"
+      "associateImageUrl": ""
     },
     {
       "char": "б",
       "charImageURL": "",
-      "associateImageURL": "./src/images/association/baraban.jpg"
+      "associateImageUrl": ""
     },
     {
       "char": "в",
       "charImageURL": "",
-      "associateImageURL": "./src/images/association/volk.jpg"
+      "associateImageUrl": ""
     },
     {
       "char": "г",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "д",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "е",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ё",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ж",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "з",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "и",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "й",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "к",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "л",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "м",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "н",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "о",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "п",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "р",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "с",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "т",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "у",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ф",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "х",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ц",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ч",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ш",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "щ",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ъ",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ы",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ь",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "э",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "ю",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     },
     {
       "char": "я",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageUrl": ""
     }
   ]
 }

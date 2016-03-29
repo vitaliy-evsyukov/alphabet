@@ -1,5 +1,6 @@
 .character {
     width: 150px;
+    min-width: 150px;
     height: 150px;
     background-color: #f5f5d5;
     font-size: 100px;
@@ -9,6 +10,7 @@
     padding: 7px 7px;
     font-family: Verdana;
     opacity: 0.3;
+    box-sizing: border-box;
 }
 
 .character.active {
