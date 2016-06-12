@@ -4,6 +4,7 @@ class Character {
         this.char = opt.char;
         this.charImageURL = opt.charImageURL;
         this.associateImageURL = opt.associateImageURL;
+        this.time = opt.time;
     }
 
     getChar() {
@@ -18,6 +19,9 @@ class Character {
         return this.associateImageURL;
     }
 
-};
+    getTime() {
+        return this.time;
+    }
+}
 
 export default Character;

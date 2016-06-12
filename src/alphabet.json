@@ -3,167 +3,200 @@
     {
       "char": "а",
       "charImageURL": "",
-      "associateImageURL": "./src/images/association/arbuz.jpg"
+      "associateImageURL": "./src/images/association/arbuz.jpg",
+      "time": [0, 1000]
     },
     {
       "char": "б",
       "charImageURL": "",
-      "associateImageURL": "./src/images/association/baraban.jpg"
+      "associateImageURL": "./src/images/association/baraban.jpg",
+      "time": [1000, 2000]
     },
     {
       "char": "в",
       "charImageURL": "",
-      "associateImageURL": "./src/images/association/volk.jpg"
+      "associateImageURL": "./src/images/association/volk.jpg",
+      "time": [2000, 3000]
     },
     {
       "char": "г",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [3000, 4000]
     },
     {
       "char": "д",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [4000, 5000]
     },
     {
       "char": "е",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [5000, 6000]
     },
     {
       "char": "ё",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [6000, 7000]
     },
     {
       "char": "ж",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [7000, 8000]
     },
     {
       "char": "з",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [8000, 9000]
     },
     {
       "char": "и",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [9000, 10000]
     },
     {
       "char": "й",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [10000, 11000]
     },
     {
       "char": "к",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [11000, 12000]
     },
     {
       "char": "л",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [12000, 13000]
     },
     {
       "char": "м",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [13000, 14000]
     },
     {
       "char": "н",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [14000, 15000]
     },
     {
       "char": "о",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [15000, 16000]
     },
     {
       "char": "п",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [16000, 17000]
     },
     {
       "char": "р",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [17000, 18000]
     },
     {
       "char": "с",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [18000, 19000]
     },
     {
       "char": "т",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [19000, 20000]
     },
     {
       "char": "у",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [20000, 21000]
     },
     {
       "char": "ф",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [21000, 22000]
     },
     {
       "char": "х",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [22000, 23000]
     },
     {
       "char": "ц",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [23000, 24000]
     },
     {
       "char": "ч",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [24000, 25000]
     },
     {
       "char": "ш",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [25000, 26000]
     },
     {
       "char": "щ",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [26000, 27000]
     },
     {
       "char": "ъ",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [27000, 28000]
     },
     {
       "char": "ы",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [28000, 29000]
     },
     {
       "char": "ь",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [29000, 30000]
     },
     {
       "char": "э",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [30000, 31000]
     },
     {
       "char": "ю",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [31000, 32000]
     },
     {
       "char": "я",
       "charImageURL": "",
-      "associateImageURL": ""
+      "associateImageURL": "",
+      "time": [32000, 33000]
     }
   ]
 }

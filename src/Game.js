@@ -1,5 +1,11 @@
 import Character from './Character.js';
 
+window.audio = new Audio();
+audio.src = './alphabet.mp3';
+
+export const STATE_READY = 0;
+export const STATE_PROGRESS = 1;
+
 class Game {
 
     constructor(characters) {
@@ -12,6 +18,8 @@ class Game {
         });
 
         this._currentCharIndex = 0;
+        this.__timeout = null;
+        this._state = STATE_READY;
     }
 
     getCharacters() {
@@ -43,15 +51,51 @@ class Game {
     }
 
     pressChar(char) {
-        var currentChar = this.getCurrentChar();
+        if (this.getState() === STATE_READY) {
+            return false;
+        }
 
-        console.log('currentChar', currentChar);
+        let currentChar = this.getCurrentChar();
+
         if (currentChar.getChar() === char) {
             this._setCurrentCharIndex( (1 + this._getCurrentCharIndex()) );
+            this.sound();
             return true;
         }
 
         return false;
+    }
+
+    sound() {
+        clearTimeout(this.__timeout);
+        audio.pause();
+
+        let timeRange = this.getCurrentChar().getTime();
+        if (!timeRange) {
+            return;
+        }
+
+        console.log('timeRange', timeRange);
+
+        audio.currentTime = timeRange[0] / 1000;
+        audio.play().then(() => {
+            this.__timeout = setTimeout(() => {
+                audio.pause();
+            }, (timeRange[1] - timeRange[0]) );
+        }, () => {
+            this.__timeout = setTimeout(() => {
+                audio.pause();
+            }, (timeRange[1] - timeRange[0]) );
+        });
+    }
+
+    getState() {
+        return this._state;
+    }
+
+    start() {
+        this._state = STATE_PROGRESS;
+        this.sound();
     }
 
 }

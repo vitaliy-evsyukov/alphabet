@@ -12,3 +12,14 @@
     justify-content: center;
     width: 100%
 }
+
+.btn {
+
+}
+
+.btn-start {
+    width: 150px;
+    height: 150px;
+    background-color: #f5f5d5;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="150" width="150"><polygon points="40,25 115,75 40,125" style="fill:black;" /></svg>');
+}
